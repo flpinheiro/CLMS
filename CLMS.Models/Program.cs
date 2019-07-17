@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CLMS.Models
+namespace CLMS
 {
     class Program
     {
